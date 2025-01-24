@@ -32,6 +32,7 @@ body {
   width: 385px;
   height: 525px;
   border-radius: 20px;
+  border: 1px solid var(--gray-500);
   padding: var(--spacing-lg);
   box-shadow: 8px 8px var(--gray-950);
   cursor: pointer;
